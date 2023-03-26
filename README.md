@@ -13,9 +13,6 @@ To install the LeetCode CLI tool, follow these steps:
    ```sh
    git clone https://github.com/nogibjj/rust-mini-leetcode.git
    ```
-   ```
-   cd leetcode-cli
-    ```
 2. Build the binary:
     ```
     cargo build --release
